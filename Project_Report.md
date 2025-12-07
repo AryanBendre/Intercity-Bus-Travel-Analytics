@@ -40,5 +40,3 @@ The dataset consists of **500,000+ booking records** with the following key attr
 1. **Download the File:** Click on `Intercity Bus Travel Dashboard.xlsx` to download the raw file.
 2. **Open in Excel:** Ensure you have Microsoft Excel 2016 or later.
 3. **Interact:** Use the Slicers on the "Dashboard" tab to filter data by Year or Bus Type.
-
-## 📁 Repository Structure
