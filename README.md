@@ -7,8 +7,7 @@
 This project analyzes **intercity bus travel data** spanning from **2015 to 2024** to identify key revenue drivers, route demands, and agency performance. The final output is an interactive Excel Dashboard that aids in decision-making for pricing and fleet management.
 
 ## 📊 Dashboard Preview
-*(Upload your screenshot to the repo and replace the link below)*
-![Dashboard Screenshot](screenshots/dashboard-preview.png)
+<img width="1872" height="744" alt="Screenshot 2025-12-05 1929445" src="https://github.com/user-attachments/assets/34997869-a0ee-49d3-9586-ef048ebebefc" />
 
 ---
 
